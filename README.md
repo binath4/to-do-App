@@ -9,7 +9,7 @@ Built to show off clean design, responsive layout, and smooth usability — no f
 ![Made with JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-blue.svg?style=flat-square)
+
 
 ## Features
 
