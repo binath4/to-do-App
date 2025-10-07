@@ -17,8 +17,9 @@ Built to show off clean design, responsive layout, and smooth usability — no f
 
 ---
 
-##  Preview
-`![App Screenshot](screenshot.png)`)*  
+## 🖼️ Preview
+
+![App Screenshot](./screenshot.png)
 
 ## Design Notes
 
